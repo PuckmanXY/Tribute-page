@@ -4,4 +4,5 @@ This challenge required me to build a simple tribute page, using the Read-Search
 Silveira, a famous brazilian singer.
 
 You can see the results of my work in this link:
-https://codepen.io/Puckman/full/PJGOdV
+
+https://puckmanxy.github.io/Tribute-page/
